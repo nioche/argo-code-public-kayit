@@ -1,0 +1,32 @@
+{
+"isimler": {
+"isimyas": "SUNUCUYA GİRİNCE KULLANICIYA VERİLMESİNİ İSTEDİĞİNİZ AD"
+},
+
+"taglar": {
+"tag": "TAG",
+"tagsız": "TAGSIZ"
+},
+
+"roller": {
+"yetkili": "KAYITYETKİLİSİROLID",
+"booster": "BOOSTERROLID",
+"vip": "VIPROLID",
+"erkek": "ERKEKROLID",
+"erkek2": "ERKEKROLDID2",
+"kız": "KIZROLID",
+"kız2": "KIZROLID2",
+"unregister": "KAYITSIZROLID",
+"tagrol": "TAGROLID",
+"botrol": "BOTROLID"
+},
+
+"kanallar": {
+"kayıtkanal": "KAYITKANALID",
+"log": "LOGKANALID",
+"genelchat": "GENELCHATID",
+"guild": "SUNUCUID",
+"kurallar": "KURALLARIKANALIID"
+}
+
+}
