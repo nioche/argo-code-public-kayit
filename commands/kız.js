@@ -66,7 +66,7 @@ client.channels.cache.get(set.kanallar.kayıtkanal).send(embed1)
 
 const embed2 = new MessageEmbed()
 .setColor('RANDOM')
-.setAuthor(message.guild.tag, message.guild.iconURL({dynamic: true}))
+.setAuthor(message.guild.name, message.guild.iconURL({dynamic: true}))
 .setFooter(conf.status)
 .setTimestamp()
 .setDescription(`Kayıt Edilen Kullanıcı: ${member} - \`${member.id}\`\nKayıt Eden Yetkili: ${message.author} - \`${message.author.id}\`\nVerilen Rol: <@&${set.roller.kız}>, <@&${set.roller.kız2}>\nAlınan Rol: <@&${set.roller.unregister}>\nKayıt ID: \`#${number}\``)
